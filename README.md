@@ -10,7 +10,7 @@ Analyzed 1,233 responses from a Mental Health in Tech survey to identify what pr
  The challenge was working with a subjective concept like wellbeing, where there was no set metric in the survey. 
  However, I decided to measure it by creating a custom scoring system. Then sorted into low, moderate, and high support based on scores.
 
- Once sorted, one was able to see where low, moderate, and high support was distributed amongst variables like gender, country, etc.
+ Once sorted, one was able to see where low, moderate, and high support was distributed amongst variables like gender, country, etc. Country and company size were found to be the strongest predictors.
 
 ## Results
 - [View interactive dashboard](https://public.tableau.com/shared/X57TCT4JP?:display_count=n&:origin=viz_share_link)
