@@ -1,6 +1,6 @@
 # Wellbeing in the Workplace Analysis
 
-Analyzed 1,233 responses from a Mental Health in Tech survey to identify what predicts workplace support. Addtionally, I provided actionable recommendations for organizations with low/moderate support.
+Analyzed 1,233 responses from a Mental Health in Tech survey to identify what predicts workplace support. Provided actionable recommendations for organizations with low/moderate support.
 
 ## Overview
 
@@ -9,7 +9,7 @@ Dataset: Mental Health in Tech Survey
 
 
 ## Results
-![Dashboard](images/coverdashboard.png)
+<img src="images/dashboard.png" width="600">
 - [View interactive dashboard](https://public.tableau.com/shared/X57TCT4JP?:display_count=n&:origin=viz_share_link)
 
 ![Slides](images/coverslide.pdf)
