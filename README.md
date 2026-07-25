@@ -9,10 +9,10 @@ Dataset: Mental Health in Tech Survey
 
 
 ## Results
-<img src="images/dashboard.png" width="600">
+<img src="images/coverdashboard.png" width="600">
 - [View interactive dashboard](https://public.tableau.com/shared/X57TCT4JP?:display_count=n&:origin=viz_share_link)
 
-![Slides](images/coverslide.pdf)
+<img src="images/coverslide.png" width="600">
 - [View slide deck (PDF) ](images/slidedeck)
 
 
